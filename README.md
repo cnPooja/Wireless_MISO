@@ -1,1 +1,4 @@
 # Wireless_MISO
+MISO is an antenna technology for wireless communications in which multiple antennas are used at the source (transmitter). The antennas are combined to minimize errors and optimize data speed. The destination (receiver) has only one antenna. The basic principle behind MISO is the transmit antennas and the receive antennas at both ends are “connected and combined”. The antennas operate at the same frequency and no extra bandwidth is required for multiple antennas. Therefore, the quality in terms of the bit error rate (BER), or the data rate for each user is improved.
+
+The project aims at establishing MISO communication. In the project, 2 USRP radios are use as the transmitter and 1 USRP N200 radio as the receiver. The experiment is done on MATLAB software. The center frequency is chosen as 900MHz for both the transmitter and receiver in the experiments.
